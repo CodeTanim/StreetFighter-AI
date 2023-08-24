@@ -15,5 +15,6 @@ Callbacks for enhanced training visibility and modularity.
 
 ## 🛠 Setup
 
-### Dependencies
-Install the necessary packages:
+### Dependencies:
+
+All of the necessary packages with the required versions are listed in the notebook. It should also be noted that these packages will ONLY work with python 3.7
