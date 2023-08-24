@@ -13,7 +13,7 @@ Training using PPO from Stable Baselines 3.
 Callbacks for enhanced training visibility and modularity.
 
 
-##🛠 Setup
+## 🛠 Setup
 
-###Dependencies
+### Dependencies
 Install the necessary packages:
