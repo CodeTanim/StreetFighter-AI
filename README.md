@@ -2,7 +2,7 @@
 
 
 
-Train a reinforcement learning agent using the PPO algorithm from Stable Baselines 3 to play the Street Fighter game. The project leverages Optuna for hyperparameter optimization to achieve better in-game performance. Paper [here](https://drive.google.com/file/d/1HZ6zSsD6tEFaSB2qvNYSPxOlsCGcfjra/view?usp=sharing)
+Train a reinforcement learning agent using the PPO algorithm from Stable Baselines 3 to play the Street Fighter game. The project leverages Optuna for hyperparameter optimization to achieve better in-game performance. Paper [here](https://drive.google.com/file/d/1HZ6zSsD6tEFaSB2qvNYSPxOlsCGcfjra/view?usp=sharing).
 
 
 ## 🚀 Features
